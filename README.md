@@ -7,8 +7,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C is a tool, sharp as a razor: with its help, you can create both an elegant program and a bloody mess.</h3>
 
-
+<div style="display: flex; flex-direction: row;">
 <img src="https://github.com/yokojin/yokojin/blob/main/csharpb.svg" alt="C Sharp" width="100" height="100"  />
 <img src="https://github.com/yokojin/yokojin/blob/main/typeScript.svg" alt="TypeScript" width="100" height="100"  />
+</div>
 
 
