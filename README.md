@@ -8,5 +8,5 @@
 <h3 align="center">IT writer from Russia</h3>
 
 
-<img src="https://github.com/yokojin/yokojin/blob/main/csharp.svg" alt="C Sharp" />
+<img src="[https://github.com/yokojin/yokojin/blob/main/csharp.svg](https://github.com/yokojin/yokojin/blob/main/csharp.svg)https://github.com/yokojin/yokojin/blob/main/csharp.svg" alt="C Sharp" />
 
