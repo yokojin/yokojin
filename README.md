@@ -11,7 +11,8 @@
 <img src="https://github.com/yokojin/yokojin/blob/main/csharpb.svg" alt="C Sharp" width="100" height="100"  />
 <img src="https://github.com/yokojin/yokojin/blob/main/typeScript.svg" alt="TypeScript" width="100" height="100"  />
 <img src="https://github.com/yokojin/yokojin/blob/main/Cplus.svg" alt="TypeScript" width="100" height="100"  />
-   <img src="https://github.com/yokojin/yokojin/blob/main/postgre.svg.svg" alt="TypeScript" width="100" height="100"  />
+<img src="https://github.com/yokojin/yokojin/blob/main/postgre.svg" alt="TypeScript" width="100" height="100"  />
+  
 </div>
 
 
